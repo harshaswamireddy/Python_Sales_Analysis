@@ -43,15 +43,9 @@ Sample sales records were inserted into the table for analysis.
 
 This project provided hands-on experience with SQLite database management, SQL query execution, data extraction using Pandas, and basic data visualization using Matplotlib. It demonstrates how Python and SQL can be combined to perform simple business and sales analytics tasks.
 
----
+## BAR CHART
 
-## Dashboard
-
-```markdown
 ![Project Preview](sales_chart.png)
-```
-
----
 
 ## Files Included
 
